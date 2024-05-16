@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: MGA
+Version: 0.0.1
+Summary: A simple Python library for More Methods For Math .
+Author: Youssef Ahmed
+Author-email: youssefahmedmoawedhamied@gmail.com
+Keywords: More-Methods
+Classifier: Devolpment Status :: 1 - Production/Stable
+Classifier: Intended Audience :: Everyone
+Classifier: Operating System :: Mirosoft :: Windows :: WIndows 10 , 11
+Classifier: License :: OSI Approved :: MIT Licence
+Classifier: Programing Language :: Python :: 3
+License-File: LICENSE.Text
+
+this is a very simple libary i made that can give you the polygon area using pa and give you circumference using cfd for diameter of cfr for raduis and can give you raduis from diameter or vice versa using dfr can use sr for square root or cr for cube root can give you pythogras therom using pth for hypotenuse or pts to give you side using hypotenuse - the other side can use sn for scientific notation and pr for precentage END
+
+Change log 
+
+===========
+
+0.0.1 (16/5/2024)
+
+-------------------
+first Release

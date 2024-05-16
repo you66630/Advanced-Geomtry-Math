@@ -1,0 +1,8 @@
+LICENSE.Text
+MANIFEST.in
+README.txt
+setup.py
+MGA.egg-info/PKG-INFO
+MGA.egg-info/SOURCES.txt
+MGA.egg-info/dependency_links.txt
+MGA.egg-info/top_level.txt

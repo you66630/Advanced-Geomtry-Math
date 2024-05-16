@@ -1,0 +1,8 @@
+LICENSE.Text
+MANIFEST.in
+README.txt
+setup.py
+Math_Geomtry_Advanced.egg-info/PKG-INFO
+Math_Geomtry_Advanced.egg-info/SOURCES.txt
+Math_Geomtry_Advanced.egg-info/dependency_links.txt
+Math_Geomtry_Advanced.egg-info/top_level.txt
